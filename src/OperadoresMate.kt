@@ -13,4 +13,6 @@ fun main(args:Array<String>){
 
     println("El resultado es: " + resultado)
 
+    //Prueba con dos archivos
+
 }

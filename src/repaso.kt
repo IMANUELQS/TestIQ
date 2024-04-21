@@ -12,8 +12,12 @@ println ("Ingresa primer número")
 
     var c:Int = readLine()?.toInt()?:0
 
-    println (a+b+c)
 
+    println ("Ingresa tercer número")
+
+    var d:Int = readLine()?.toInt()?:0
+
+    println (a+b+c+d)
 
 
 }
